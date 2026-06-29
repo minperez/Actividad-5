@@ -13,3 +13,4 @@ Para no limitar el estudio a la regresión lineal se incluyo un algoritmo no lin
 
 
 
+
